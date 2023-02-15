@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import './App.css';
 import logo from './logo.svg';
-import Login1 from './user_components.js/Login';
+import Login from './user_components.js/Login';
 import { Login2 } from "./diet_expert.js/Login";
 import { Register2 } from "./diet_expert.js/Register";
 

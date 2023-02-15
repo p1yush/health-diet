@@ -1,5 +1,4 @@
 import {  useState } from "react"
-import { NavLink } from "react-router-dom"
 import styled from "styled-components"
 
 const Box = styled.div`
@@ -100,10 +99,6 @@ cursor: pointer;
 `
 const Toreg = styled.p`
 text-align: center;
-`
-const Reg = styled(NavLink)`
-color: violet;
-text-decoration: none;
 `
 const Line = styled.div`
 border-left: 2px solid black;
